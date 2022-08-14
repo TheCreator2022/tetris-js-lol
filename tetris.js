@@ -173,7 +173,7 @@ let gameMap;
 let gameOver;
 let currentShape;
 let nextShape;
-let score;
+import score;
 let initialTwoDArr;
 let whiteLineThickness = 4;
 
